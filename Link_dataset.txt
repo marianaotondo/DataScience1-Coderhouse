@@ -1,0 +1,4 @@
+Link dataset utilizado para el analisis
+No puedo subirlo a GitHub por el tamaño del csv
+
+https://drive.google.com/file/d/1jmIZSZRwJB-_kjOCm3Zfqt9VQs-M1316/view?usp=drive_link
